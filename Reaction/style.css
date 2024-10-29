@@ -1,0 +1,13 @@
+.text {
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+
+#shape{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
